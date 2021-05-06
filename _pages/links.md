@@ -15,7 +15,7 @@ Other NLP Seminars:
 
 Our group also host a CS6101 reading group on NLP and related topics. 
 
-One recent one on Conversational Recommendation Systems: https://wing-nus.github.io/cs6101 and more:
+One recent one on Conversational Recommendation Systems: <a href="https://wing-nus.github.io/cs6101">https://wing-nus.github.io/cs6101 and more:
 
 1. **Deep Reinforcement Learning** - <a href="http://www.comp.nus.edu.sg/~kanmy/courses/6101_1820/">http://www.comp.nus.edu.sg/~kanmy/courses/6101_1820</a>
 1. **Deep Learning for NLP** (reprise) - <a href="http://www.comp.nus.edu.sg/~kanmy/courses/6101_1810/">http://www.comp.nus.edu.sg/~kanmy/courses/6101_1810</a>
