@@ -7,16 +7,17 @@ main:
 #    url: /schedule/
 
 # was "grading"
-  - title: "Past Semesters"
-    url: /past-semesters/
+# NLP event: We don't have any past semester, hence comment off it. 
+  # - title: "Past Semesters"
+  #   url: /past-semesters/
 
 # was "projects"
   - title: "People"
     url: /people/
     
  # ADDNEW
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
 
 # Min: 200122 - keep for now but comment out.
 #  - title: "Portfolio"
