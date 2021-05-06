@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "WING NUS NLP Seminar"
+title: "WING NUS Natural Language Processing (NLP) Seminar"
 author_profile: true
 redirect_from:
   - /about/
