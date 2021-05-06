@@ -7,9 +7,9 @@ author_profile: true
 
 Other NLP Seminars:
 
-1. Stanford NLP Seminars: https://nlp.stanford.edu/seminar/
-2. Berkeley NLP Seminars: https://nlp.berkeley.edu/ 
-3. Columbia NLP Seminars: http://www.cs.columbia.edu/~eallaway/nlp_seminar.html
+1. Stanford NLP Seminars:  <a href="https://nlp.stanford.edu/seminar/">https://nlp.stanford.edu/seminar/
+2. Berkeley NLP Seminars: <a href="https://nlp.berkeley.edu/">https://nlp.berkeley.edu/ 
+3. Columbia NLP Seminars: <a href="http://www.cs.columbia.edu/~eallaway/nlp_seminar.html">http://www.cs.columbia.edu/~eallaway/nlp_seminar.html
 
 
 
