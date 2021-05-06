@@ -6,22 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Our reading group will be conducted as a group seminar, with class participants nominating themselves and presenting the materials and leading the discussion. 
-In the Sem II of AY2020/2021, we will focus on the topics of 
+Our group will be running our first NLP seminar in 2021 summer, tentatively from 20th May to 20th July (8 weeks). Invited speakers will talk about the latest breakthrough in their research. We will have eight invited speakers, each speaker for each week.
 
-**Conversational Systems**, **Recommender Systems** and **their intersections**.  
-
-There will be 7 reading sessions, which will be held from 1 pm to 3 pm on Friday biweekly. On alternate Thursdays 1-3 pm, we will have project consultation sessions. Please see the detailed schedule in the table.
-
-<a href="http://cs6101.slack.com/">A mandatory discussion group is on Slack</a>. Students and guests, please login when you are free. If you have a @comp.nus.edu.sg, @u.nus.edu, @nus.edu.sg, @a-star.edu.sg, @dsi.a-star.edu.sg or @i2r.a-star.edu.sg. email address you can create your Slack account for the group discussion without needing an invite.
-
-**For interested public participants**, please send Min an email at ```kanmy@comp.nus.edu.sg``` if you need an invite to the Slack group.  The Slack group is being reused from previous semesters.  Once you are in the Slack group, you can consider yourself registered for the group.
+**For interested public participants**, please send Min an email at ```kanmy@comp.nus.edu.sg``` if you need an invite to the Slack group.  
 
 ## Schedule  {#schedule}
 
-The sessions will be broadcast live via the customized Zoom link as advertised on the [Slack group](http://cs6101.slack.com).  For semi-privacy reasons, the group meeting ID and access is not publicly disseminated here on the webpage.
-
-**The schedule below is preliminary (last updated 4 Jan 2021)** We may make slight changes on the allocation for topics and provide alternative suggestions for papers.
+**The schedule below is preliminary (last updated 6 May 2021)** We may make slight changes on the timing and talk details. 
 
 <table class="table table-striped">
 <thead class="thead-inverse"><tr><th>Date</th><th width="80%">Description</th></tr></thead>
@@ -30,33 +21,18 @@ The sessions will be broadcast live via the customized Zoom link as advertised o
   Use this first row as an exemplar.  You can get the Youtube offsets for each segment by using the share button and checking the "start at" checkbox and then pasting it.  The t parameter is the number of second from the start of the video.
  ************************************************** -->
 <tr>
-  <td><b>NUS Week 02</b><br />Fri, 22 Jan<br />
-    <a href="http://nus.edu.sg/registrar/docs/info/calendar/ay2020-2021.pdf">NUS Calendar (PDF)</a>
+  <td><b>10:00 AM May 27th SGT<br /></b>
   </td>
   <td>
-   <p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Cw2hNnDcigc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  </p>
-  <strong>Topics on Conversational Systems I</strong>
-  <a href="https://wing-nus.github.io/cs6101/paper-ConvSys">Reading List for Surveys and Research Papers</a>
   <p>
-    Lecturers: Min-Yen Kan, Yisong Miao, Lin Xu, Yuxi Xie<br/>
+    Speaker: <a href="https://muhaochen.github.io/">Muhao Chen</a><br/>
+    Topic: Understanding Event Processes in Natural Language<br/>
     Support Staff: whole class
 </p>
   <p>
-    [&nbsp;<a href="https://docs.google.com/presentation/d/1e1JLxKbK6aGY0G5CirkLtqMhShApl-Pz4shw4YAT_TU/edit">Lecture Slides</a>&nbsp;]
-    [&nbsp;<a href="https://docs.google.com/document/d/1hGuSyHxZEXO4SK64_TIeIZPPlFoGUe-2_0lh9WUPo34/edit">Scribe Notes</a>&nbsp;]
+    [&nbsp;<a href="https://docs.google.com/presentation/d/1e1JLxKbK6aGY0G5CirkLtqMhShApl-Pz4shw4YAT_TU/edit">Speaker's Bio</a>&nbsp;]
+    [&nbsp;<a href="https://docs.google.com/document/d/1hGuSyHxZEXO4SK64_TIeIZPPlFoGUe-2_0lh9WUPo34/edit">Talk Overview</a>&nbsp;]
     <br/></p> 
-<P>Descriptions:
-<ul>
-  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=0s">00:00</a>&nbsp;] Start - CS6101 / DYC1401 administration, presented by Min-Yen Kan </li>
-  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=2160s">36:00</a>&nbsp;] Overview of Dialogue Systems, presented by Yisong Miao </li>
-  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=2711s">45:11</a>&nbsp;] Qin et al. (2020) "DCR-Net: A Deep Co-Interactive Relation Network for Joint Dialog Act
-Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.cn/~car/papers/AAAI2020-Qin-dcrnet.pdf">PDF</a>&nbsp;] In AAAI'2020, presented by Min-Yen Kan </li>
-  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=5205s">1:26:45</a>&nbsp;] Rishabh Joshi, Vidhisha Balachandran, Shikhar Vashishth, Alan Black, Yulia Tsvetkov. "DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues" [&nbsp;<a href = "https://openreview.net/pdf?id=kDnal_bbb-E">PDF@OpenReview</a>&nbsp;], Accepted@ICLR '21, presented by Lin Xu </li>
-  <li>[&nbsp;<a href="https://www.youtube.com/watch?v=Cw2hNnDcigc&t=7680s">2:08:00</a>&nbsp;] Li et al. (2020) "Don’t Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training". [&nbsp;<a href = " https://www.aclweb.org/anthology/2020.acl-main.428/">PDF</a>&nbsp;] In ACL'2020, presented by Yuxi Xie </li> 
- </ul>
-    </p>
 
   </td>
   </tr>
@@ -65,11 +41,15 @@ Recognition and Sentiment Classification". [&nbsp;<a href = "http://ir.hit.edu.c
   <td><b>NUS Week 03</b><br />Thur, 28 Jan
   </td>
   <td>
+
       <p>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xqkS_SlVguY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </p>
       <strong>Project Consultation Session 1, led by Min-Yen Kan </strong>
+
     <P>Descriptions:
+
 <ul>
   <li>[&nbsp;<a href="https://www.youtube.com/watch?v=xqkS_SlVguY&list=PLllwxvcS7ca7215qgCSc8EDTncBZgOedd&index=2&t=0s">00:00</a>&nbsp;] Start  </li>
   <li>[&nbsp;<a href="https://www.youtube.com/watch?v=xqkS_SlVguY&list=PLllwxvcS7ca7215qgCSc8EDTncBZgOedd&index=2&t=200s">3:20</a>&nbsp;] Agenda for today </li>
