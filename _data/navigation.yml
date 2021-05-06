@@ -1,0 +1,26 @@
+# main links links
+main:
+#  - title: "Announcements"
+#    url: /year-archive/
+
+#  - title: "Schedule"
+#    url: /schedule/
+
+# was "grading"
+  - title: "Past Semesters"
+    url: /past-semesters/
+
+# was "projects"
+  - title: "People"
+    url: /people/
+    
+ # ADDNEW
+  - title: "Projects"
+    url: /projects/
+
+# Min: 200122 - keep for now but comment out.
+#  - title: "Portfolio"
+#    url: /portfolio/
+
+  - title: "Links"
+    url: /links/
