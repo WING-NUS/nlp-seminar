@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WING Reading Group (CS6101) "
+title                    : "WING NLP Seminar"
 title_separator          : "-"
 name                     : &name "WING NUS NLP Seminar"
 description              : &description "Web IR / NLP Group (WING) @ NUS"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "WING.NUS"
   avatar           : "wing.jpg"
-  bio              : "The reading group for the WING NUS Research Group"
+  bio              : "The NLP Seminar for the WING NUS Research Group"
   location         : "Singapore"
   employer         : "NUS"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

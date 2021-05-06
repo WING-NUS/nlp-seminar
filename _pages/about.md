@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Web, IR and NLP Public Reading Group"
+title: "WING NUS NLP Seminar"
 author_profile: true
 redirect_from:
   - /about/
