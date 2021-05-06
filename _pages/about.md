@@ -25,7 +25,7 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
   </td>
   <td>
   <p>
-    Speaker: <a href="https://muhaochen.github.io/">Muhao Chen</a><br/>
+    Speaker: <a href="https://muhaochen.github.io/">Muhao Chen</a>, Assistant Professor @ University of Southern California<br/>
     Topic: Understanding Event Processes in Natural Language<br/>
     Support Staff: whole class
 </p>
@@ -41,7 +41,7 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
   </td>
   <td>
   <p>
-    Speaker: <a href="https://www.cc.gatech.edu/~dyang888/">Diyi Yang</a><br/>
+    Speaker: <a href="https://www.cc.gatech.edu/~dyang888/">Diyi Yang</a>, Assistant Professor @ Georgia Institute of Technology<br/>
     Topic: TBA<br/>
     Support Staff: whole class
 </p>
@@ -56,7 +56,7 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
   </td>
   <td>
   <p>
-    Speaker: <a href="https://www.patricklewis.io/">Patrick Lewis</a><br/>
+    Speaker: <a href="https://www.patricklewis.io/">Patrick Lewis</a>, PhD Student @ University College London and Facebook AI Research<br/>
     Topic: TBA<br/>
     Support Staff: whole class
 </p>
@@ -71,7 +71,7 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
   </td>
   <td>
   <p>
-    Speaker: <a href="https://vered1986.github.io/">Vered Shwartz</a><br/>
+    Speaker: <a href="https://vered1986.github.io/">Vered Shwartz</a>, Postdoctoral Researcher @ Allen Institute for AI and University of Washington<br/>
     Topic: TBA<br/>
     Support Staff: whole class
 </p>
