@@ -30,7 +30,7 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
     Support Staff: whole class
 </p>
   <p>
-    [&nbsp;<a href="https://wing-nus.github.io/speaker-muhao">Speaker's Bio & Talk Overview</a>&nbsp;]
+    [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-muhao">Speaker's Bio & Talk Overview</a>&nbsp;]
     <br/></p> 
 
   </td>
@@ -46,7 +46,7 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
     Support Staff: whole class
 </p>
   <p>
-    [&nbsp;<a href="https://wing-nus.github.io/speaker-diyi">Speaker's Bio & Talk Overview</a>&nbsp;]
+    [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-diyi">Speaker's Bio & Talk Overview</a>&nbsp;]
     <br/></p> 
   </td>
   </tr>
@@ -61,7 +61,7 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
     Support Staff: whole class
 </p>
   <p>
-    [&nbsp;<a href="https://wing-nus.github.io/speaker-patrick">Speaker's Bio & Talk Overview</a>&nbsp;]
+    [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-patrick">Speaker's Bio & Talk Overview</a>&nbsp;]
     <br/></p> 
   </td>
   </tr>
@@ -76,7 +76,7 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
     Support Staff: whole class
 </p>
   <p>
-    [&nbsp;<a href="https://wing-nus.github.io/speaker-vered">Speaker's Bio & Talk Overview</a>&nbsp;]
+    [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-vered">Speaker's Bio & Talk Overview</a>&nbsp;]
     <br/></p> 
   </td>
   </tr>
