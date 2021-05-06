@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Talk Info: Muhao Chen"
+permalink: /speaker-muhao
+author_profile: true
+---
+
 ## Understanding Event Processes in Natural Language
 
 Human languages evolve to communicate about events happening in the real world. Therefore, understanding events plays a critical role in natural language understanding (NLU). A key  challenge to this mission lies in the fact that events are not just simple, standalone predicates. Rather, they are often described at different granularities, temporally form event processes, and are directed by specific central goals in a context. This talk covers recent advances in event process understanding in natural language. In this context, I will first introduce how to recognize the evolution of events from natural language, then how to solve fundamental problems of event process completion, intention prediction and membership prediction, and how knowledge about event processes can benefit various downstream NLU and machine perception tasks. I will also briefly present some open problems in this area, along with a system demonstration.
