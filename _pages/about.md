@@ -30,7 +30,7 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
     Support Staff: whole class
 </p>
   <p>
-    [&nbsp;<a href="https://docs.google.com/presentation/d/1e1JLxKbK6aGY0G5CirkLtqMhShApl-Pz4shw4YAT_TU/edit">Speaker's Bio & Talk Overview</a>&nbsp;]
+    [&nbsp;<a href="https://wing-nus.github.io/speaker-muhao">Speaker's Bio & Talk Overview</a>&nbsp;]
     <br/></p> 
 
   </td>
@@ -46,7 +46,7 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
     Support Staff: whole class
 </p>
   <p>
-    [&nbsp;<a href="https://docs.google.com/presentation/d/1e1JLxKbK6aGY0G5CirkLtqMhShApl-Pz4shw4YAT_TU/edit">Speaker's Bio & Talk Overview</a>&nbsp;]
+    [&nbsp;<a href="https://wing-nus.github.io/speaker-diyi">Speaker's Bio & Talk Overview</a>&nbsp;]
     <br/></p> 
   </td>
   </tr>
@@ -61,7 +61,7 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
     Support Staff: whole class
 </p>
   <p>
-    [&nbsp;<a href="https://docs.google.com/presentation/d/1e1JLxKbK6aGY0G5CirkLtqMhShApl-Pz4shw4YAT_TU/edit">Speaker's Bio & Talk Overview</a>&nbsp;]
+    [&nbsp;<a href="https://wing-nus.github.io/speaker-patrick">Speaker's Bio & Talk Overview</a>&nbsp;]
     <br/></p> 
   </td>
   </tr>
@@ -76,7 +76,7 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
     Support Staff: whole class
 </p>
   <p>
-    [&nbsp;<a href="https://docs.google.com/presentation/d/1e1JLxKbK6aGY0G5CirkLtqMhShApl-Pz4shw4YAT_TU/edit">Speaker's Bio & Talk Overview</a>&nbsp;]
+    [&nbsp;<a href="https://wing-nus.github.io/speaker-vered">Speaker's Bio & Talk Overview</a>&nbsp;]
     <br/></p> 
   </td>
   </tr>
@@ -84,14 +84,3 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
   <tr>
   </tr>
 </tbody></table>
-
-
-
-## Organizers {#org}
-
-This version of CS6101 is jointly run by [WING@NUS](http://wing.comp.nus.edu.sg/) and [Lab of Data Science @ USTC](http://data-science.ustc.edu.cn/), the latter one is led by Dr [Xiangnan He](http://staff.ustc.edu.cn/~hexn/). 
-
-The current organisation team includes following members (alphabetical order):
-
-[Jiawei Chen@USTC](https://jiawei-chen.github.io/), [Chongming Gao@USTC](https://chongminggao.me/), [Xiangnan He@USTC](http://staff.ustc.edu.cn/~hexn/), [Hengchang Hu@NUS](http://holdenhu.cn/), [Saurabh Jain@NUS](https://www.linkedin.com/in/100rabhj), [Min-Yen Kan@NUS](https://www.comp.nus.edu.sg/~kanmy/), Xu Lin@NUS, [Xinyuan Lu@NUS](https://www.linkedin.com/in/xinyuan-lu-34762585/?originalSubdomain=sg), [Yisong Miao@NUS](https://yisong.me/)
-
