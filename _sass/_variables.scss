@@ -60,9 +60,9 @@ $background-color           : #F0F8FF; /* #fff */
 $code-background-color      : #FF9638; /* #fafafa */
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray; /* $dark-gray; */
-$border-color               : $lighter-gray;
+$border-color               : $dark-gray; /* $lighter-gray; */
 
-$primary-color              : $light-gray; /* #7a8288; */
+$primary-color              : $dark-gray; /* $light-gray; */
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
