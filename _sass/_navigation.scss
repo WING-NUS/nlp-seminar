@@ -83,8 +83,8 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, $gray, 25%);
-      border: 1px solid $light-gray;
+      color: mix(#fff, $dark-gray, 25%);
+      border: 1px solid $dark-gray;
       border-radius: 0;
 
       &:hover {
@@ -131,8 +131,8 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: mix(#fff, $gray, 50%);
-    border: 1px solid $light-gray;
+    color: mix(#fff, $dark, 50%);
+    border: 1px solid $dark-gray;
     border-radius: $border-radius;
 
     &:hover {
@@ -371,7 +371,7 @@
 
 .toc {
   font-family: $sans-serif-narrow;
-  color: $gray;
+  color: $dark-gray;
   text-transform: uppercase;
   letter-spacing: 1px;
   background-color: #fff;
@@ -381,7 +381,7 @@
 
   .nav__title {
     color: #fff;
-    font-size: $type-size-6;
+    font-size: $dark-gray;
     background: $primary-color;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
@@ -406,7 +406,7 @@
 
     &:hover {
       color: #000;
-      background: $lighter-gray;
+      background: $dark-gray;
     }
   }
 
