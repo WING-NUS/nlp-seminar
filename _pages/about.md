@@ -100,3 +100,44 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
   <tr>
   </tr>
 </tbody></table>
+
+## Organizing Team {#organizing}
+<div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
+
+<div class="tutor__profile">
+  <img src="images/min.jpg"/><BR/>
+  <strong>Min-Yen Kan</strong>
+  <BR/>
+ <A HREF="https://www.comp.nus.edu.sg/~kanmy/">Homepage</A><BR/>
+</div>
+
+<div class="tutor__profile">
+  <img src="images/liangming.jpg"/><BR/>
+  <strong>Liangming Pan</strong>
+  <BR/>
+ <A HREF="http://www.liangmingpan.com/">Homepage</A><BR/>
+</div>
+
+<div class="tutor__profile">
+  <img src="images/taha.png"/><BR/>
+  <strong>Taha Aksu</strong>
+  <BR/>
+ <A HREF="https://cuthalionn.github.io/">Homepage</A><BR/>
+</div>
+
+<div class="tutor__profile">
+  <img src="images/samson.jpg"/><BR/>
+  <strong>Samson Tan</strong>
+  <BR/>
+ <A HREF="https://samsontmr.github.io/">Homepage</A><BR/>
+</div>
+
+<div class="tutor__profile">
+  <img src="images/yisong.jpg"/><BR/>
+  <strong>Yisong Miao</strong>
+  <BR/>
+ <A HREF="https://yisong.me/">Homepage</A><BR/>
+</div>
+
+</div>
+
