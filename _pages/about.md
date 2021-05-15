@@ -12,7 +12,7 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
 
 ## Schedule  {#schedule}
 
-**The schedule below is preliminary (last updated 6 May 2021)**. We may make slight changes on the timing and talk details. 
+**The schedule below is preliminary (last updated 15th May 2021)**. We may make slight changes on the timing and talk details. 
 
 <table class="table table-striped">
 <thead class="thead-inverse"><tr><th>Date</th><th width="80%">Description</th></tr></thead>
