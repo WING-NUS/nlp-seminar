@@ -99,7 +99,7 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
   </tr>
 
   <tr>
-  <td><b>10:00 AM July 1st SGT<br/></b>
+  <td><b>July 1st SGT<br/></b>
   </td>
   <td>
   <p>
