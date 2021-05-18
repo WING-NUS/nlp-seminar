@@ -82,6 +82,39 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
   </td>
   </tr>
 
+
+  <tr>
+  <td><b>10:00 AM June 24th SGT<br/></b>
+  </td>
+  <td>
+  <p>
+    Speaker: <a href="https://jasonwu0731.github.io">Jason C.S. Wu</a>, senior research scientist @ Salesforce AI Research<br/>
+    Topic: TBA<br/>
+    Support Staff: whole class
+</p>
+  <p>
+    [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-jason">Speaker's Bio & Talk Overview</a>&nbsp;]
+    <br/></p> 
+  </td>
+  </tr>
+
+  <tr>
+  <td><b>10:00 AM July 1st SGT<br/></b>
+  </td>
+  <td>
+  <p>
+    Speaker: <a href="https://www.mit.edu/~jda/">Jacob Andreas</a>, X Consortium Assistant Professor @ Massachusetts Institute of Technology<br/>
+    Topic: TBA<br/>
+    Support Staff: whole class
+</p>
+  <p>
+    [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-jacob">Speaker's Bio & Talk Overview</a>&nbsp;]
+    <br/></p> 
+  </td>
+  </tr>
+
+
+
   <tr>
   <td><b>July 15th SGT<br/></b>
   </td>
