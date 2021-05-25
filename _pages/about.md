@@ -42,7 +42,7 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
   <td>
   <p>
     Speaker: <a href="https://www.cc.gatech.edu/~dyang888/">Diyi Yang</a>, Assistant Professor @ Georgia Institute of Technology<br/>
-    Topic: TBA<br/>
+    Topic: Natural Language Processing with Less Data and More Structures<br/>
     Support Staff: whole class
 </p>
   <p>
