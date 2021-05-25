@@ -30,6 +30,7 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
     Support Staff: whole class
 </p>
   <p>
+    [&nbsp;<a href="https://www.slideshare.net/secret/zg3u4SIAfT9eK">Slides@Slideshare.net</a>&nbsp;]
     [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-muhao">Speaker's Bio & Talk Overview</a>&nbsp;]
     <br/></p> 
 
