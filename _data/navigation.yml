@@ -12,8 +12,9 @@ main:
   #   url: /past-semesters/
 
 # was "projects"
-  - title: "People"
-    url: /people/
+# Just remove the "people"
+  # - title: "People"
+  #   url: /people/
     
  # ADDNEW
   # - title: "Projects"
