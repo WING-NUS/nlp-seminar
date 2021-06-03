@@ -39,8 +39,6 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
   <script async class="speakerdeck-embed" data-id="774e2c28f938447ca62c11489b71e1d8" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
   </p>
 
-<!-- s -->
-
   </td>
 
   </tr>
@@ -48,7 +46,8 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
 <tr>
   <td><b>21:00 PM June 1st SGT<br /></b>
   </td>
-  <td>
+
+<!--   <td>
   <p>
     Speaker: <a href="https://www.cc.gatech.edu/~dyang888/">Diyi Yang</a>, Assistant Professor @ Georgia Institute of Technology<br/>
     Topic: Natural Language Processing with Less Data and More Structures<br/>
@@ -62,7 +61,27 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
 
   <tr>
   <td><b>16:00 PM June 10th SGT<br/></b>
+  </td> -->
+
+  <td>
+    <h1><a href="https://www.cc.gatech.edu/~dyang888/">Diyi Yang</a>: Natural Language Processing with Less Data and More Structures</h1>
+    <strong>Diyi is an Assistant Professor @ Georgia Institute of Technology</strong> 
+  <p>
+    [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-diyi">Speaker's Bio & Talk Overview</a>&nbsp;]
+  </p>
+    
+  <p>
+  <script async class="speakerdeck-embed" data-id="7192c41df8194e3ea5b0ef3b1c678153" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+  </p>
+
   </td>
+</tr>
+
+
+  <tr>
+  <td><b>16:00 PM June 10th SGT<br/></b>
+  </td>
+
   <td>
   <p>
     Speaker: <a href="https://www.patricklewis.io/">Patrick Lewis</a>, PhD Student @ University College London and Facebook AI Research<br/>
