@@ -47,22 +47,6 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
   <td><b>21:00 PM June 1st SGT<br /></b>
   </td>
 
-<!--   <td>
-  <p>
-    Speaker: <a href="https://www.cc.gatech.edu/~dyang888/">Diyi Yang</a>, Assistant Professor @ Georgia Institute of Technology<br/>
-    Topic: Natural Language Processing with Less Data and More Structures<br/>
-    Support Staff: whole class
-</p>
-  <p>
-    [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-diyi">Speaker's Bio & Talk Overview</a>&nbsp;]
-    <br/></p> 
-  </td>
-  </tr>
-
-  <tr>
-  <td><b>16:00 PM June 10th SGT<br/></b>
-  </td> -->
-
   <td>
     <h1><a href="https://www.cc.gatech.edu/~dyang888/">Diyi Yang</a>: Natural Language Processing with Less Data and More Structures</h1>
     <strong>Diyi is an Assistant Professor @ Georgia Institute of Technology</strong> 
