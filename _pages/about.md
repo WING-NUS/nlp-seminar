@@ -25,21 +25,22 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
   </td>
 
   <td>
-    <h1><a href="https://muhaochen.github.io/">Muhao Chen</a>, Assistant Professor @ University of Southern California</h1>
-    <h2>Topic: Understanding Event Processes in Natural Language</h2>
-
-  <p>
-    Video @ YouTube
-  </p>
+    <h1><a href="https://muhaochen.github.io/">Muhao Chen</a>: Understanding Event Processes in Natural Language</h1>
+    <strong>Muhao is an Assistant Professor @ University of Southern California</strong> [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-muhao">Speaker's Bio & Talk Overview</a>&nbsp;]
     
   <p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/SsVhzeT5VmA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </p>
 
   <p>
+  <script async class="speakerdeck-embed" data-id="774e2c28f938447ca62c11489b71e1d8" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+  </p>
+
+<!--   <p>
     [&nbsp;<a href="https://www.slideshare.net/secret/zg3u4SIAfT9eK">Slides@Slideshare.net</a>&nbsp;]
     [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-muhao">Speaker's Bio & Talk Overview</a>&nbsp;]
-    <br/></p> 
+    <br/>
+  </p>  -->
 
   </td>
 
