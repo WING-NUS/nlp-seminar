@@ -26,7 +26,10 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
 
   <td>
     <h1><a href="https://muhaochen.github.io/">Muhao Chen</a>: Understanding Event Processes in Natural Language</h1>
-    <strong>Muhao is an Assistant Professor @ University of Southern California</strong> [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-muhao">Speaker's Bio & Talk Overview</a>&nbsp;]
+    <strong>Muhao is an Assistant Professor @ University of Southern California</strong> 
+  <p>
+    [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-muhao">Speaker's Bio & Talk Overview</a>&nbsp;]
+  </p>
     
   <p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/SsVhzeT5VmA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -36,11 +39,7 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
   <script async class="speakerdeck-embed" data-id="774e2c28f938447ca62c11489b71e1d8" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
   </p>
 
-<!--   <p>
-    [&nbsp;<a href="https://www.slideshare.net/secret/zg3u4SIAfT9eK">Slides@Slideshare.net</a>&nbsp;]
-    [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-muhao">Speaker's Bio & Talk Overview</a>&nbsp;]
-    <br/>
-  </p>  -->
+<!-- s -->
 
   </td>
 
