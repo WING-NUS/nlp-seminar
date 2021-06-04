@@ -67,14 +67,15 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
   </td>
 
   <td>
-  <p>
-    Speaker: <a href="https://www.patricklewis.io/">Patrick Lewis</a>, PhD Student @ University College London and Facebook AI Research<br/>
-    Topic: TBA<br/>
-    Support Staff: whole class
-</p>
+
+  <h1><a href="https://www.patricklewis.io/">Patrick Lewis</a>: PAQ: 65 Million Probably-Asked Questions and What You Can Do With Them</h1>
+    <strong>Patrick Lewis is a PhD Student @ University College London and Facebook AI Research</strong> 
   <p>
     [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-patrick">Speaker's Bio & Talk Overview</a>&nbsp;]
-    <br/></p> 
+  </p>
+  
+  Slides to come. 
+
   </td>
   </tr>
 
