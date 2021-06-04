@@ -16,14 +16,14 @@ Models which directly leverage question-answer (QA) pairs, such as closed-book Q
 
 Papers covered by the talk: 
 
-- Retrieval-augmented Generation for Knowledge-intensive NLP tasks: https://arxiv.org/abs/2005.11401
-- Question and answer overlap in open domain QA :https://arxiv.org/abs/2008.02637 
-- PAQ: https://arxiv.org/pdf/2102.07033.pdf  
+- Retrieval-augmented Generation for Knowledge-intensive NLP tasks: [https://arxiv.org/abs/2005.11401](https://arxiv.org/abs/2005.11401)
+- Question and answer overlap in open domain QA :[https://arxiv.org/abs/2008.02637](https://arxiv.org/abs/2008.02637)
+- PAQ: [https://arxiv.org/pdf/2102.07033.pdf](https://arxiv.org/pdf/2102.07033.pdf )
 
 Some Background reading for interested folks
-- https://arxiv.org/abs/2002.08910
-- https://arxiv.org/abs/2004.04906
-- https://www.aclweb.org/anthology/P19-1612.pdf
+- [https://arxiv.org/abs/2002.08910](https://arxiv.org/abs/2002.08910)
+- [https://arxiv.org/abs/2004.04906](https://arxiv.org/abs/2004.04906)
+- [https://www.aclweb.org/anthology/P19-1612.pdf](https://www.aclweb.org/anthology/P19-1612.pdf)
 
 
 
