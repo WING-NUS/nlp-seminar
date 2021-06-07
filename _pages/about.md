@@ -21,7 +21,7 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
   Use this first row as an exemplar.  You can get the Youtube offsets for each segment by using the share button and checking the "start at" checkbox and then pasting it.  The t parameter is the number of second from the start of the video.
  ************************************************** -->
 <tr>
-  <td><h2>10:00 AM May 27th SGT</h2><br /><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a></b>
+  <td><h2>10:00 AM May 27th SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
   </td>
 
   <td>
@@ -63,7 +63,7 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
 
 
   <tr>
-  <td><h2>16:00 PM June 10th SGT<br/></h2>
+  <td><h2>16:00 PM June 10th SGT</h2>
   </td>
 
   <td>
