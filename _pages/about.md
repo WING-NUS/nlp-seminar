@@ -15,7 +15,7 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
 **The schedule below is preliminary (last updated 15th May 2021)**. We may make slight changes on the timing and talk details. 
 
 <table class="table table-striped">
-<thead class="thead-inverse"><tr><th>Date</th><th width="80%">Description</th></tr></thead>
+<thead class="thead-inverse"><tr><th>Date</th><th width="70%">Description</th></tr></thead>
 <tbody>
 <!-- Support Staff ********************************** 
   Use this first row as an exemplar.  You can get the Youtube offsets for each segment by using the share button and checking the "start at" checkbox and then pasting it.  The t parameter is the number of second from the start of the video.
