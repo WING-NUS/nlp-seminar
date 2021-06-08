@@ -126,6 +126,21 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
   </td>
   </tr>
 
+  <tr>
+  <td><h2>July 8th SGT<br/></h2>
+  </td>
+  <td>
+  <p>
+    Speaker: <a href="https://www.mit.edu/~jda/">He He</a>, Assistant Professor @ New York University<br/>
+    Topic: TBA<br/>
+    Support Staff: whole class
+</p>
+  <p>
+    [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-he">Speaker's Bio & Talk Overview</a>&nbsp;]
+    <br/></p> 
+  </td>
+  </tr>
+
 
 
   <tr>
