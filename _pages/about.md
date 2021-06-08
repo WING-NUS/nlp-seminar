@@ -131,7 +131,7 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
   </td>
   <td>
   <p>
-    Speaker: <a href="https://www.mit.edu/~jda/">He He</a>, Assistant Professor @ New York University<br/>
+    Speaker: <a href="https://hhexiy.github.io">He He</a>, Assistant Professor @ New York University<br/>
     Topic: TBA<br/>
     Support Staff: whole class
 </p>
