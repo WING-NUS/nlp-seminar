@@ -32,3 +32,13 @@ Some Background reading for interested folks
 Bio:
 Patrick Lewis is a final year PhD student splitting his time between University College London and Facebook AI Research in London, supervised by Sebastian Riedel and Pontus Stenetorp. Patrick’s research interests center on Knowledge-intensive Natural Language Processing. His recent work has won Best Paper Awards at AKBC 2020 and EACL 2021, and he led a team which won 2 tracks of the EfficientQA competition at NeurIPS 2020. Patrick focuses on how to represent, store and access knowledge and building more powerful, efficient and robust models for knowledge-intensive NLP tasks such as Question Answering.
 
+
+Video:
+ <p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/qOwH2ZOIH0Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+
+Slides:
+ <script async class="speakerdeck-embed" data-id="b93af64bc4fc46e992e03f3dcfc01a36" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+
