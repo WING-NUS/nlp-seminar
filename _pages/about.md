@@ -90,11 +90,9 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
   <td><h2>10:00 AM June 17th SGT<br/></h2>
   </td>
   <td>
-  <p>
-    Speaker: <a href="http://zhiting.ucsd.edu/">Zhiting Hu</a>, Assistant Professor @ UC San Diego<br/>
-    Topic: TBA<br/>
-    Support Staff: whole class
-</p>
+  <h1><a href="http://zhiting.ucsd.edu/">Zhiting Hu</a>: Text Generation with No (Good) Data: New Reinforcement Learning and Causal Frameworks</h1>
+  <strong>Zhiting is an Assistant Professor @ UC San Diego</strong> 
+
   <p>
     [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-zhiting">Speaker's Bio & Talk Overview</a>&nbsp;]
     <br/></p> 
