@@ -12,3 +12,13 @@ Text generation systems, especially powered by massive pretrained language model
  
 Bio:
 Zhiting Hu is an incoming Assistant Professor in Halicioglu Data Science Institute at UC San Diego and a visiting research scientist at Amazon. He received his Bachelor's degree in Computer Science from Peking University, and his Ph.D. in Machine Learning from Carnegie Mellon University. His research interests lie in the broad area of machine learning, natural language processing, ML systems, healthcare and other application domains. In particular, He is interested in principles, methodologies, and systems of training AI agents with all types of experiences (data, knowledge, rewards, adversaries, lifelong interplay, etc). His research was recognized with best demo nomination at ACL2019 and outstanding paper award at ACL2016.
+
+Video:
+ <p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/rim-FhieEv0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+
+Slides:
+ <script async class="speakerdeck-embed" data-id="0a88a0017d014c398b2e3cc52e47b578" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+
