@@ -113,11 +113,10 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
   <td><h2>10:00 AM June 24th SGT<br/></h2>
   </td>
   <td>
-  <p>
-    Speaker: <a href="https://jasonwu0731.github.io">Jason C.S. Wu</a>, senior research scientist @ Salesforce AI Research<br/>
-    Topic: TBA<br/>
-    Support Staff: whole class
-</p>
+
+  <h1><a href="https://jasonwu0731.github.io">Jason C.S. Wu</a>: Conversations as Knowledge: from Attribute Extraction, Question Answering, to Summarization</h1>
+    <strong>Jason is a Senior Research Scientist @ Salesforce AI Research</strong> 
+
   <p>
     [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-jason">Speaker's Bio & Talk Overview</a>&nbsp;]
     <br/></p> 
