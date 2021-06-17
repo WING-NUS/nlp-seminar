@@ -98,11 +98,11 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
     <br/></p> 
 
  <p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/qOwH2ZOIH0Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/rim-FhieEv0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </p>
 
 <p>
- <script async class="speakerdeck-embed" data-id="b93af64bc4fc46e992e03f3dcfc01a36" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+ <script async class="speakerdeck-embed" data-id="0a88a0017d014c398b2e3cc52e47b578" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 </p>
 
   </td>

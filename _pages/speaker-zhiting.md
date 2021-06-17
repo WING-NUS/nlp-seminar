@@ -19,6 +19,7 @@ Video:
   </p>
 
 Slides:
+<p>
  <script async class="speakerdeck-embed" data-id="0a88a0017d014c398b2e3cc52e47b578" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 
