@@ -127,11 +127,9 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
   <td><h2>July 1st SGT<br/></h2>
   </td>
   <td>
-  <p>
-    Speaker: <a href="https://www.mit.edu/~jda/">Jacob Andreas</a>, X Consortium Assistant Professor @ Massachusetts Institute of Technology<br/>
-    Topic: TBA<br/>
-    Support Staff: whole class
-</p>
+    <h1><a href="https://www.mit.edu/~jda/">Jacob Andreas</a>: Implicit Representations of Meaning in Neural Language Models</h1>
+    <strong>Jacob is the X Consortium Assistant Professor @ Massachusetts Institute of Technology</strong>
+
   <p>
     [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-jacob">Speaker's Bio & Talk Overview</a>&nbsp;]
     <br/></p> 
