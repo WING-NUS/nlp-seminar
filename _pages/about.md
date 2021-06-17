@@ -124,7 +124,7 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
   </tr>
 
   <tr>
-  <td><h2>July 1st SGT<br/></h2>
+  <td><h2>10:00 AM July 1st SGT<br/></h2>
   </td>
   <td>
     <h1><a href="https://www.mit.edu/~jda/">Jacob Andreas</a>: Implicit Representations of Meaning in Neural Language Models</h1>
