@@ -114,7 +114,7 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
   </td>
   <td>
 
-  <h1><a href="https://jasonwu0731.github.io">Jason C.S. Wu</a>: Conversations as Knowledge: from Attribute Extraction, Question Answering, to Summarization</h1>
+  <h1><a href="https://jasonwu0731.github.io">Jason C.S. Wu</a>: Conversations as Knowledge: from Question Answering to Summarization</h1>
     <strong>Jason is a Senior Research Scientist @ Salesforce AI Research</strong> 
 
   <p>
