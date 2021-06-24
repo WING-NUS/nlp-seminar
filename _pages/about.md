@@ -120,6 +120,16 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
   <p>
     [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-jason">Speaker's Bio & Talk Overview</a>&nbsp;]
     <br/></p> 
+
+ <p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/QxvnAnO9c-I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+
+  <p>
+  <script async class="speakerdeck-embed" data-id="fb8f2652b3fb47d9a7d89af5f8ee57d4" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+  </p>
+
+
   </td>
   </tr>
 
