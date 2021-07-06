@@ -159,11 +159,9 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
   <td><h2>9:00 AM July 8th SGT<br/></h2>
   </td>
   <td>
-  <p>
-    Speaker: <a href="https://hhexiy.github.io">He He</a>, Assistant Professor @ New York University<br/>
-    Topic: TBA<br/>
-    Support Staff: whole class
-</p>
+    <h1><a href="https://hhexiy.github.io">He He</a>: Guarding Against Spurious Correlations in Natural Language Understanding</h1>
+    <strong>He He is an Assistant Professor @ New York University</strong>
+
   <p>
     [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-he">Speaker's Bio & Talk Overview</a>&nbsp;]
     <br/></p> 
