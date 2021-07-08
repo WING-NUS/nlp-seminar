@@ -189,15 +189,7 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
   <p>
     [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-vered">Speaker's Bio & Talk Overview</a>&nbsp;]
     <br/></p> 
-
-  <p>
-    Speaker: <a href="https://vered1986.github.io/">Vered Shwartz</a>, Postdoctoral Researcher @ Allen Institute for AI and University of Washington<br/>
-    Topic: TBA<br/>
-    Support Staff: whole class
-</p>
-  <p>
-    [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-vered">Speaker's Bio & Talk Overview</a>&nbsp;]
-    <br/></p> 
+    
   </td>
   </tr>
 
