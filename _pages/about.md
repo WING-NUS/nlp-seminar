@@ -188,7 +188,16 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
 
   <p>
     [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-vered">Speaker's Bio & Talk Overview</a>&nbsp;]
-    <br/></p> 
+    <br/></p>
+
+  <p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/L5CaFBRiRw4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+
+  <p>
+    <script async class="speakerdeck-embed" data-id="06767fb8ae2d4a8bb9b538ae08b10bb8" data-ratio="1.29456384323641" src="//speakerdeck.com/assets/embed.js"></script>
+  </p>
+
     
   </td>
   </tr>
