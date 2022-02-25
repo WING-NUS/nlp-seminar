@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Our group will be running our seconds NLP seminar in 2022 Spring, starting from March 1. Invited speakers will talk about the latest breakthrough in their research. We will have eight invited speakers, each speaker for each week.
+Our group will be running our second NLP seminar in 2022 Spring, starting from March 1. Invited speakers will talk about the latest breakthrough in their research.
 
 **For interested public participants**, please send Min an email at ```kanmy@comp.nus.edu.sg```.
 
