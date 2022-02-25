@@ -52,7 +52,7 @@ Our group will be running our seconds NLP seminar in 2022 Spring, starting from 
   </td>
 
   <td>
-    <h1><a href="https://www.linkedin.com/in/thang-luong/">Minh-Thang Luong</a>:The curious case of self-training: from vision to language and beyond</h1>
+    <h1><a href="https://www.linkedin.com/in/thang-luong/">Minh-Thang Luong</a>: The curious case of self-training: from vision to language and beyond</h1>
     <strong>Minh-Thang Luong is a staff research scientist at Google Brain</strong> 
   <p>
     [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-minh">Speaker's Bio & Talk Overview</a>&nbsp;]
