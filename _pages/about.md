@@ -28,7 +28,7 @@ Our group will be running our seconds NLP seminar in 2022 Spring, starting from 
 
   <td>
     <h1><a href="https://vanzytay.github.io/">Yi Tay</a>: Transformer Memory as a Differentiable Search Index</h1>
-    <strong>Yi Tayis  a senior research scientist and tech lead at Google AI working on Natural Language Processing and Machine Learning</strong> 
+    <strong>Yi Tay is  a senior research scientist and tech lead at Google AI working on Natural Language Processing and Machine Learning</strong> 
   <p>
     [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-yi_tay">Speaker's Bio & Talk Overview TBA</a>&nbsp;]
   </p>
