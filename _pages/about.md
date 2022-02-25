@@ -55,7 +55,7 @@ Our group will be running our seconds NLP seminar in 2022 Spring, starting from 
     <h1><a href="https://www.linkedin.com/in/thang-luong/">Minh-Thang Luong</a>: TBA</h1>
     <strong>Minh-Thang Luong is a staff research scientist at Google Brain</strong> 
   <p>
-    [&nbsp;<a href=https://wing-nus.github.io/nlp-seminar/speaker-minh>Speaker's Bio & Talk Overview TBA</a>&nbsp;]
+    [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-minh">Speaker's Bio & Talk Overview TBA</a>&nbsp;]
   </p>
 
   <!-- Youtube link will be here -->
