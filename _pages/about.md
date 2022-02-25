@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Our group will be running our first NLP seminar in 2021 summer, tentatively from 20th May to 20th July (8 weeks). Invited speakers will talk about the latest breakthrough in their research. We will have eight invited speakers, each speaker for each week.
+Our group will be running our seconds NLP seminar in 2022 Spring, starting from March 1. Invited speakers will talk about the latest breakthrough in their research. We will have eight invited speakers, each speaker for each week.
 
 **For interested public participants**, please send Min an email at ```kanmy@comp.nus.edu.sg```.
 
@@ -20,46 +20,58 @@ Our group will be running our first NLP seminar in 2021 summer, tentatively from
 <!-- Support Staff ********************************** 
   Use this first row as an exemplar.  You can get the Youtube offsets for each segment by using the share button and checking the "start at" checkbox and then pasting it.  The t parameter is the number of second from the start of the video.
  ************************************************** -->
+
+
 <tr>
-  <td><h2>10:00 AM May 27th SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
+  <td><h2>11:00 AM March 1st SGT<br /></h2>
   </td>
 
   <td>
-    <h1><a href="https://muhaochen.github.io/">Muhao Chen</a>: Understanding Event Processes in Natural Language</h1>
-    <strong>Muhao is an Assistant Professor @ University of Southern California</strong> 
+    <h1><a href="https://vanzytay.github.io/">Yi Tay</a>: Transformer Memory as a Differentiable Search Index</h1>
+    <strong>Yi Tayis  a senior research scientist and tech lead at Google AI working on Natural Language Processing and Machine Learning</strong> 
   <p>
-    [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-muhao">Speaker's Bio & Talk Overview</a>&nbsp;]
+    [&nbsp;<a href="">Speaker's Bio & Talk Overview TBA</a>&nbsp;]
   </p>
     
-  <p>
+   <!-- Youtube link will be here -->
+  <!-- <p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/SsVhzeT5VmA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p> -->
+
+<!-- Speaker Deck will be here -->
+  <!-- <p>
+  <script async class="speakerdeck-embed" data-id="774e2c28f938447ca62c11489b71e1d8" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+  </p> -->
+
+  </td>
+</tr>
+
+
+<tr>
+  <td><h2>12:00 PM March 1st SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
+  </td>
+
+  <td>
+    <h1><a href="https://www.linkedin.com/in/thang-luong/">Minh-Thang Luong</a>: TBA</h1>
+    <strong>Minh-Thang Luong is a staff research scientist at Google Brain</strong> 
+  <p>
+    [&nbsp;<a href="">Speaker's Bio & Talk Overview TBA</a>&nbsp;]
   </p>
 
-  <p>
+  <!-- Youtube link will be here -->
+  <!-- <p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/SsVhzeT5VmA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p> -->
+
+<!-- Speaker Deck will be here -->
+  <!-- <p>
   <script async class="speakerdeck-embed" data-id="774e2c28f938447ca62c11489b71e1d8" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
-  </p>
+  </p> -->
 
   </td>
 
   </tr>
 
-<tr>
-  <td><h2>21:00 PM June 1st SGT<br /></h2>
-  </td>
-
-  <td>
-    <h1><a href="https://www.cc.gatech.edu/~dyang888/">Diyi Yang</a>: Natural Language Processing with Less Data and More Structures</h1>
-    <strong>Diyi is an Assistant Professor @ Georgia Institute of Technology</strong> 
-  <p>
-    [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-diyi">Speaker's Bio & Talk Overview</a>&nbsp;]
-  </p>
-    
-  <p>
-  <script async class="speakerdeck-embed" data-id="7192c41df8194e3ea5b0ef3b1c678153" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
-  </p>
-
-  </td>
-</tr>
 
 
   <tr>
