@@ -1,6 +1,7 @@
 ---
-permalink: /past/
+layout: archive
 title: "Past WING NUS Natural Language Processing (NLP) Seminars"
+permalink: /past/
 author_profile: true
 ---
 # WING NUS Natural Language Processing (NLP) Seminar '21
