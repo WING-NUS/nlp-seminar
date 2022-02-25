@@ -28,4 +28,4 @@ main:
     url: /links/
 # Add past seminars tab
  - title: "Past Seminars"
-  url: /past/
+    url: /past/
