@@ -26,6 +26,8 @@ main:
 
   - title: "Links"
     url: /links/
+
 # Add past seminars tab
- - title: "Past Seminars"
+
+  - title: "Past Seminars"
     url: /past/
