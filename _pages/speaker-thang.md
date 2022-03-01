@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Talk Info: Minh-Thang Luong"
-permalink: /speaker-minh
+permalink: /speaker-thang
 author_profile: true
 ---
 

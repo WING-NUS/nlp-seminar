@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Talk Info: Yi Tay"
-permalink: /speaker-yi_tay
+permalink: /speaker-yi
 author_profile: true
 ---
 
