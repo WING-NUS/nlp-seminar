@@ -30,7 +30,7 @@ Our group will be running our second NLP seminar in 2022 Spring, starting from M
     <h1><a href="https://vanzytay.github.io/">Yi Tay</a>: Transformer Memory as a Differentiable Search Index</h1>
     <strong>Yi is  a senior research scientist and tech lead at Google AI</strong> 
   <p>
-    [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-yi_tay">Speaker's Bio & Talk Overview TBA</a>&nbsp;]
+    [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-yi">Speaker's Bio & Talk Overview</a>&nbsp;]
   </p>
     
    <!-- Youtube link will be here -->
@@ -55,7 +55,7 @@ Our group will be running our second NLP seminar in 2022 Spring, starting from M
     <h1><a href="https://www.linkedin.com/in/thang-luong/">Minh-Thang Luong</a>: The curious case of self-training: from vision to language and beyond</h1>
     <strong>Thang is a staff research scientist at Google Brain</strong> 
   <p>
-    [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-minh">Speaker's Bio & Talk Overview</a>&nbsp;]
+    [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-thang">Speaker's Bio & Talk Overview</a>&nbsp;]
   </p>
 
   <!-- Youtube link will be here -->
