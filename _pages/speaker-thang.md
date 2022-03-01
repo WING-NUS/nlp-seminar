@@ -15,6 +15,16 @@ Thang Luong is currently a Staff Research Scientist at Google Brain. He obtained
 
 ## Video Recording and Slides
 
+  <!-- Youtube link will be here -->
+  <p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/WZXvJF995pM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+
+<!-- Speaker Deck will be here -->
+  <p>
+  <script async class="speakerdeck-embed" data-id="cbd3f7fd92e940c3ab4840e8850502df" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+  </p>
+
 <!-- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SsVhzeT5VmA/0.jpg)](https://www.youtube.com/watch?v=SsVhzeT5VmA)
 
 <script async class="speakerdeck-embed" data-id="774e2c28f938447ca62c11489b71e1d8" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script> -->

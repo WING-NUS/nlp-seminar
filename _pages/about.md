@@ -28,20 +28,20 @@ Our group will be running our second NLP seminar in 2022 Spring, starting from M
 
   <td>
     <h1><a href="https://vanzytay.github.io/">Yi Tay</a>: Transformer Memory as a Differentiable Search Index</h1>
-    <strong>Yi Tay is  a senior research scientist and tech lead at Google AI</strong> 
+    <strong>Yi is  a senior research scientist and tech lead at Google AI</strong> 
   <p>
     [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-yi_tay">Speaker's Bio & Talk Overview TBA</a>&nbsp;]
   </p>
     
    <!-- Youtube link will be here -->
-  <!-- <p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/SsVhzeT5VmA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  </p> -->
+  <p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/27rNqGrTdSI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
 
 <!-- Speaker Deck will be here -->
-  <!-- <p>
-  <script async class="speakerdeck-embed" data-id="774e2c28f938447ca62c11489b71e1d8" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
-  </p> -->
+  <p>
+  <script async class="speakerdeck-embed" data-id="569f8161a5f84bb996bd7c844590dc1e" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+  </p>
 
   </td>
 </tr>
@@ -53,20 +53,20 @@ Our group will be running our second NLP seminar in 2022 Spring, starting from M
 
   <td>
     <h1><a href="https://www.linkedin.com/in/thang-luong/">Minh-Thang Luong</a>: The curious case of self-training: from vision to language and beyond</h1>
-    <strong>Minh-Thang Luong is a staff research scientist at Google Brain</strong> 
+    <strong>Thang is a staff research scientist at Google Brain</strong> 
   <p>
     [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-minh">Speaker's Bio & Talk Overview</a>&nbsp;]
   </p>
 
   <!-- Youtube link will be here -->
-  <!-- <p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/SsVhzeT5VmA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  </p> -->
+  <p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/WZXvJF995pM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
 
 <!-- Speaker Deck will be here -->
-  <!-- <p>
-  <script async class="speakerdeck-embed" data-id="774e2c28f938447ca62c11489b71e1d8" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
-  </p> -->
+  <p>
+  <script async class="speakerdeck-embed" data-id="cbd3f7fd92e940c3ab4840e8850502df" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+  </p>
 
   </td>
 
