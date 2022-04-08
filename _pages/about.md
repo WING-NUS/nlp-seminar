@@ -69,8 +69,31 @@ Our group will be running our second NLP seminar in 2022 Spring, starting from M
   </p>
 
   </td>
+</tr>
 
-  </tr>
+<tr>
+  <td><h2>11.30 AM April 14th SGT</h2><br/><a href="https://www.timeanddate.com/time/zones/sgt">When is SGT?</a>
+  </td>
+
+  <td>
+    <h1><a href="https://xiangli1999.github.io/">Xiang Lisa Li</a>: Prefix-Tuning: Optimizing Continuous Prompts for Generation</h1>
+    <strong>Xiang Lisa Li is a PhD student in computer science at Stanford University</strong> 
+  <p>
+    [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-lisa">Speaker's Bio & Talk Overview</a>&nbsp;]
+  </p>
+
+  <!-- Youtube link will be here
+  <p>
+    <iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+
+<!-- Speaker Deck will be here -->
+  <!-- <p>
+  <script async class="speakerdeck-embed" data-id="cbd3f7fd92e940c3ab4840e8850502df" data-ratio="1.77777777777778" src=""></script>
+  </p> --> -->
+
+  </td>
+</tr>
 
 
 
