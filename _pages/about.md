@@ -90,7 +90,7 @@ Our group will be running our second NLP seminar in 2022 Spring, starting from M
 <!-- Speaker Deck will be here -->
   <!-- <p>
   <script async class="speakerdeck-embed" data-id="cbd3f7fd92e940c3ab4840e8850502df" data-ratio="1.77777777777778" src=""></script>
-  </p> --> -->
+  </p> -->
 
   </td>
 </tr>
