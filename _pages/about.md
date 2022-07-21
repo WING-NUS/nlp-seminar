@@ -25,12 +25,38 @@ Our group will be running our second NLP seminar in 2022 Spring, starting from M
 
 
   <tr>
-  <td><h2>11.00 AM July 19th SGT</h2>
+  <td><h2>9.00 AM August 15th SGT</h2>
   </td>
 
   <td>
-    <h1><a href="">Heng Ji</a>: Schema Guided Event Prediction</h1>
-    <strong></strong> 
+    <h1><a href="https://espejel.xyz/">Omar Espejel</a>: HuggingFace Demo.cratization @ Singapore</h1>
+    <strong>Omar Espejel is a Machine Learning Developer Advocate at HuggingFace.</strong> 
+  <p>
+    Please register here with this 
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSflZx4zbzlIwCHlyOptS_bBps7g2oeYbte56117_8Ohrv6v5Q/viewform?usp=sf_link">Google Form</a> (2 minutes of your time).  If you have problems reaching Google Forms, please contact Min ```kanmy@comp.nus.edu.sg```.
+  </p>
+
+  <p>Sorry, no public slides or recording available!</p>
+  <!-- Youtube link will be here
+  <p>
+    <iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </p>
+
+<!-- Speaker Deck will be here -->
+  <!-- <p>
+  <script async class="speakerdeck-embed" data-id="cbd3f7fd92e940c3ab4840e8850502df" data-ratio="1.77777777777778" src=""></script>
+  </p> -->
+
+  </td>
+</tr>
+
+  <tr>
+  <td><h2>10.00 AM July 19th SGT</h2>
+  </td>
+
+  <td>
+    <h1><a href="https://cs.illinois.edu/about/people/faculty/hengji">Heng Ji</a>: Schema Guided Event Prediction</h1>
+    <strong>Heng Ji is a professor at the Computer Science Department, and an affiliated faculty member at the Electrical and Computer Engineering Department of University of Illinois at Urbana-Champaign and an Amazon Scholar.</strong> 
   <p>
     [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-heng">Speaker's Bio & Talk Overview</a>&nbsp;]
   </p>
