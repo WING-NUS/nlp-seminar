@@ -36,7 +36,8 @@ Our group will be running our second NLP seminar in 2022 Spring, starting from M
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSflZx4zbzlIwCHlyOptS_bBps7g2oeYbte56117_8Ohrv6v5Q/viewform?usp=sf_link">Google Form</a> (2 minutes of your time).  If you have problems reaching Google Forms, please contact Min ```kanmy@comp.nus.edu.sg```.
   </p>
 
-  <p>Sorry, no public slides or recording available!</p>
+  <img src="images/Picture 1.png" alt="ML Demo.cratization Tour @ Singapore"/>
+  <img src="images/Picture 2.png" alt="Omar Espejel"/>
   <!-- Youtube link will be here
   <p>
     <iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
