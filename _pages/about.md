@@ -57,13 +57,12 @@ Our group will be running our second NLP seminar in 2022 Spring, starting from M
   </td>
 
   <td>
-    <h1><a href="https://abhinavkashyap.io/">Abhinav Ramesh Kashyap</a>: </h1>
+    <h1><a href="https://abhinavkashyap.io/">Abhinav Ramesh Kashyap</a>: Application of Divergence Measures for Domain Adaptation in NLP</h1>
     <strong>Abhinav Ramesh Kashyap is a fourth-year Ph.D. student advised by Prof Min-Yen Kan and also closely collaborates with Devamanyu Hazarika. His research is on Natural Language Processing. Specifically he focuses on making NLP models robust under different domains, also called Domain Adaptation. He is also interested in Scholarly Document Processing which helps extract information from scholarly articles.</strong> 
   <p>
     [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-abhinav">Speaker's Bio & Talk Overview</a>&nbsp;]
   </p>
 
-  <!-- Youtube link will be here
   <p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/ycdG5bozFT0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </p>
@@ -73,7 +72,8 @@ Our group will be running our second NLP seminar in 2022 Spring, starting from M
   </p> 
 
   </td>
-</tr>  <tr>
+</tr>  
+<tr>
   <td><h2>10.00 AM July 19th SGT</h2>
   </td>
 
