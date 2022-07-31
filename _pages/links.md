@@ -5,15 +5,17 @@ permalink: /links/
 author_profile: true
 ---
 
-Other NLP Seminars:
+# Other WING Seminars:
+
+WING Information Retrieval (IR) Seminar: [http://wing.comp.nus.edu.sg](https://wing-nus.github.io/ir-seminar/)
+
+# Other NLP Seminars:
 
 1. Stanford NLP Seminars:  <a href="https://nlp.stanford.edu/seminar/">https://nlp.stanford.edu/seminar/
 2. Berkeley NLP Seminars: <a href="https://nlp.berkeley.edu/">https://nlp.berkeley.edu/ 
 3. Columbia NLP Seminars: <a href="http://www.cs.columbia.edu/~eallaway/nlp_seminar.html">http://www.cs.columbia.edu/~eallaway/nlp_seminar.html
 
-
-
-Our group also host a CS6101 reading group on NLP and related topics. 
+Our group also hosts the occasional CS6101 reading group on NLP and related topics. 
 
 One recent one on Conversational Recommendation Systems: <a href="https://wing-nus.github.io/cs6101">https://wing-nus.github.io/cs6101 and more:
 
