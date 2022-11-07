@@ -10,8 +10,9 @@ Speaker: Prof. Li Zhenghua, School of Computer Science and Technology, Soochow U
 Date/Time: November 11, 2022, Friday, 10:00 - 11:30 am
 Location: Online
 Yanxia Qin is inviting you to a scheduled Zoom meeting.
-Join Zoom Meeting
-https://nus-sg.zoom.us/j/81330392074?pwd=Ri8rcUhJL3NhR1BNdnp6eDBBdHl1QT09
+
+Join Zoom Meeting<br>
+[https://nus-sg.zoom.us/j/81330392074?pwd=Ri8rcUhJL3NhR1BNdnp6eDBBdHl1QT09](https://nus-sg.zoom.us/j/81330392074?pwd=Ri8rcUhJL3NhR1BNdnp6eDBBdHl1QT09)
 
 
 Talk abstract: In this talk, I would like to introduce this COLING-2022 paper. Besides the details of the work itself, I also want to discuss the stories behind the work. For example, how did the idea come out; how we developed the idea gradually; how we responded to the negative comments in the previous two submission rounds; etc. I also want to discuss with the audience how our work may be improved and look forward to new ideas.
