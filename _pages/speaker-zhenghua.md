@@ -5,10 +5,10 @@ permalink: /speaker-zhenghua
 author_profile: true
 ---
 
-Title: Fast and Accurate End-to-End Span-based Semantic Role Labeling as Word based Graph Parsing
-Speaker: Prof. Li Zhenghua, School of Computer Science and Technology, Soochow University
-Date/Time: November 11, 2022, Friday, 10:00 - 11:30 am
-Location: Online
+Title: Fast and Accurate End-to-End Span-based Semantic Role Labeling as Word based Graph Parsing<br>
+Speaker: Prof. Li Zhenghua, School of Computer Science and Technology, Soochow University<br>
+Date/Time: November 11, 2022, Friday, 10:00 - 11:30 am<br>
+Location: Online<br>
 Yanxia Qin is inviting you to a scheduled Zoom meeting.
 
 Join Zoom Meeting<br>
