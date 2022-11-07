@@ -28,7 +28,7 @@ Our group will be running our second NLP seminar in 2022 Spring, starting from M
   </td>
 
   <td>
-    <h1><a href="https://espejel.xyz/">Zhenghua Li </a>: Fast and Accurate End-to-End Span-based Semantic Role Labeling as Word based Graph Parsing</h1>
+    <h1><a href="http://hlt.suda.edu.cn/~zhli">Zhenghua Li </a>: Fast and Accurate End-to-End Span-based Semantic Role Labeling as Word based Graph Parsing</h1>
     <strong>Zhenghua Li is a full professor at Soochow University.</strong> 
   <p>
     [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-zhenghua">Speaker's Bio & Talk Overview</a>&nbsp;]
