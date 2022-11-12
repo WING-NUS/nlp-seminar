@@ -33,12 +33,12 @@ Our group will be running our second NLP seminar in 2022 Spring, starting from M
   <p>
     [&nbsp;<a href="https://wing-nus.github.io/nlp-seminar/speaker-zhenghua">Speaker's Bio & Talk Overview</a>&nbsp;]
   </p>
-  <!-- Youtube link will be here
+  <!-- Youtube link will be here -->
   <p>
-    <iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/q0XeQpwL7VY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </p>
 
-<!-- Speaker Deck will be here -->
+<!-- Speaker Deck will be here
   <!-- <p>
   <script async class="speakerdeck-embed" data-id="cbd3f7fd92e940c3ab4840e8850502df" data-ratio="1.77777777777778" src=""></script>
   </p> -->
