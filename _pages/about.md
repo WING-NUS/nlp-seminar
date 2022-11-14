@@ -38,6 +38,10 @@ Our group will be running our second NLP seminar in 2022 Spring, starting from M
     <iframe width="560" height="315" src="https://www.youtube.com/embed/q0XeQpwL7VY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </p>
 
+    <p>
+  <script async class="speakerdeck-embed" data-id="dd2608690e2a4363bd97c969c8c379fe" data-ratio="1.77725118483412" src="//speakerdeck.com/assets/embed.js"></script>  
+  </p> 
+
 <!-- Speaker Deck will be here
   <!-- <p>
   <script async class="speakerdeck-embed" data-id="cbd3f7fd92e940c3ab4840e8850502df" data-ratio="1.77777777777778" src=""></script>
